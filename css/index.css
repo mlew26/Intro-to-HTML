@@ -2,7 +2,7 @@ h1 {
   color: orange;
 }
 
-.content {
+div .content {
   margin-left: 10%;
   margin-right: 10%;
 }
