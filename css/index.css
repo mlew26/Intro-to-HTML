@@ -11,3 +11,13 @@ h1 {
   background-color: lightblue;
   text-align: center;
 }
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: lightgrey;
+  color: blue;
+  text-align: center;
+}
