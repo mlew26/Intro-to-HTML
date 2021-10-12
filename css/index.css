@@ -7,7 +7,7 @@ h1 {
   margin-right: 10%;
 }
 
-div.heading {
-  background-color: light-blue;
+div .heading {
+  background-color: lightblue;
   text-align: center;
 }
