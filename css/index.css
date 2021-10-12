@@ -2,12 +2,12 @@ h1 {
   color: orange;
 }
 
-div .content {
+.content {
   margin-left: 10%;
   margin-right: 10%;
 }
 
-div .heading {
+.heading {
   background-color: lightblue;
   text-align: center;
 }
